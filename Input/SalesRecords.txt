@@ -1,0 +1,78 @@
+coke at 10p
+30 sales of coke at 10p each
+coke at 10p
+Add 20p coke
+10 sales of coke at 10p each
+sprite at 10p
+20 sales of 7up at 10p each
+7up at 10p
+5 sales of bigcola at 5p each
+7up at 10p
+5 sales of bigcola at 5p each
+bigcola at 5p
+2 sales of thumsup at 15p each
+Add 20p coke
+coke at 10p
+20 sales of coke at 10p each
+Multiply 20p coke
+coke at 10p
+20 sales of pepsi at 10p each
+coke at 10p
+20 sales of coke at 10p each
+Add 20p coke
+coke at 10p
+20 sales of coke at 10p each
+Add 20p coke
+coke at 10p
+20 sales of pepsi at 10p each
+pepsi at 10p
+20 sales of mirinda at 10p each
+Multiply 3p pepsi
+Subtract 5p coke
+thumsup at 15p
+slice at 20p
+25 sales of slice at 20p each
+mirinda at 10p
+20 sales of sprite at 10p each
+20 sales of sprite at 10p each
+Subtract 20p coke
+coke at 10p
+20 sales of coke at 10p each
+Add 20p coke
+coke at 10p
+20 sales of pepsi at 10p each
+pepsi at 10p
+20 sales of mirinda at 10p each
+pepsi at 10p
+20 sales of mirinda at 10p each
+mirinda at 10p
+20 sales of sprite at 10p each
+sprite at 10p
+20 sales of 7up at 10p each
+coke at 10p
+Add 2p 7up
+mirinda at 10p
+20 sales of sprite at 10p each
+sprite at 10p
+20 sales of 7up at 10p each
+7up at 10p
+5 sales of bigcola at 5p each
+20 sales of coke at 10p each
+Add 20p coke
+coke at 10p
+20 sales of pepsi at 10p each
+sprite at 10p
+20 sales of 7up at 10p each
+7up at 10p
+5 sales of bigcola at 5p each
+coke at 10p
+20 sales of coke at 10p each
+Multiply 20p bigcola
+coke at 10p
+20 sales of pepsi at 10p each
+pepsi at 10p
+Add 5p 7up
+Subtract 5p mirinda
+12 sales of thumsup
+20 sales of mirinda at 10p each
+mirinda at 10p
